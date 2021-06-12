@@ -1,9 +1,7 @@
 package com.leetcode.arrays;
 
 import java.util.ArrayDeque;
-import java.util.ArrayList;
 import java.util.Deque;
-import java.util.List;
 
 public class _1476_Subrectangle_Queries {
 

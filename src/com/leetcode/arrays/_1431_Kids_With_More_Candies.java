@@ -1,7 +1,6 @@
 package com.leetcode.arrays;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 public class _1431_Kids_With_More_Candies {
